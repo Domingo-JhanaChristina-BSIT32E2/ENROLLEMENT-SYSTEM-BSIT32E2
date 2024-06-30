@@ -1,8 +1,9 @@
-﻿using ENROLLEMENT_SYSTEM_BSIT32E2.Models;
+﻿using ENROLLMENT_SYSTEM_BSIT32E2.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
-namespace ENROLLEMENT_SYSTEM_BSIT32E2.Controllers
+namespace ENROLLMENT_SYSTEM_BSIT32E2.Controllers
 {
     public class HomeController : Controller
     {
